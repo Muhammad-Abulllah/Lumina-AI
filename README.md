@@ -1,13 +1,10 @@
 # ✨ Lumina AI
 
-![Project Banner](public/screenshot.png)
-*(Note: Replace 'public/screenshot.png' with a path to a real screenshot of your app)*
-
 > **A Next-Gen Multimodal Code Assistant focused on "Vibe Coding."**
 > *Built for the Google Gemini Hackathon.*
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-**[🔴 Live Demo](INSERT_YOUR_VERCEL_URL_HERE)** | **[📺 Demo Video](INSERT_YOUR_YOUTUBE_LINK_HERE)**
+
 
 ---
 
