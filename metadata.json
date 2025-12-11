@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI",
+  "description": "A high-fidelity, multimodal AI interface featuring smooth physics-based animations, real-time streaming, and image analysis capabilities powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
